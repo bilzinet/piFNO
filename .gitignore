@@ -4,3 +4,8 @@ models/forward_kcomp_results-fno.npy
 models/forward_kcomp_results-pifno.npy
 models/inverse_kcomp_results-fno.npy
 models/inverse_kcomp_results-pifno.npy
+data/train/
+data/test/
+data/__pycache__/
+data/sample_input.png
+data/sample_solution_densitymap.png
